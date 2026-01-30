@@ -5,6 +5,10 @@
   * GitHub: bepalaciosa
   * Interests: computing for social good, building open-source community at UNM
 
+* Quinn Sena
+	* GitHub: qtsena
+	* Interests: video games, computer science and CS education
+
 * Al-Ekram Elahee Hridoy
   * GitHub: alhridoy
   * Interests: open source, scalable systems, social impact tech
